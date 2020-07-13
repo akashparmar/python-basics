@@ -1,0 +1,7 @@
+x = set()
+x.add(1)
+x.add(2)
+x.add('abc')
+x.add(1)
+x.add(3)
+print(x)
